@@ -2,7 +2,7 @@
 
 ## Link
 
-> https://renato7oliveira.github.io/landpage-generica/src/
+> https://renatolopesweb.github.io/landpage-generica/src/
 
 ## Tecnologias
 
